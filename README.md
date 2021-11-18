@@ -1,9 +1,10 @@
 <h1>App transferencia bancaria em .NET - NTT DATA New Talents #3 .NET</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Javascript&message=language&color=blue&style=for-the-badge&logo=javascript"/>  
+  <img src='https://img.shields.io/static/v1?label=C Sharp&message=language&color=blue&style=for-the-badge&logo=C-Sharp'/>  
+  <img src='https://img.shields.io/static/v1?label=.NET&message=language&color=blue&style=for-the-badge&logo=.NET'/>  
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESAFIO%20CONCLUÍDO&color=green&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESAFIO%20CONCLUIDO&color=green&style=for-the-badge"/>
    </p>
 
 
@@ -49,7 +50,7 @@ para quem quiser conferir, segue o código no [Github](https://github.com/LuizCo
 
 ## Layout da Aplicação :dash:
 
-> ![](https://github.com/LuizCorrea-Dev/app-transferencia-bancaria/blob/main/img/screencapture.png?raw=true)
+> ![](https://github.com/LuizCorrea-Dev/app-transferencia-bancaria/blob/main/screencapture.png?raw=true)
 
 
 
